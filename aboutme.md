@@ -13,4 +13,4 @@ I made the site with at-risk journalists in mind, to demonstrate that anyone can
 
 ### my history
 
-My carreer started as a Russian language translator in military intelligence. I'd tell you the rest, but you know what happens to people who know too much.
+My carreer started as a Russian linguist in military intelligence. I'd tell you the rest, but you know what happens to people who know too much.
