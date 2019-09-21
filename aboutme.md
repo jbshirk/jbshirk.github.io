@@ -7,7 +7,7 @@ At heart, I'm an inventor-philosopher. I desire to apply my data science skills 
 
 ### Hobbies
 #### Exospheric unbreakable blog
-I have a blog called [Exospheric](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/). It's not your everyday kind of blog. It started as an expermiment in host-less websites. Exospheric is hosted on the InterPlanetary FileSystem (IPFS) --it's everywhere and it's nowhere.
+I have a blog called [Exospheric](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/). It's not your everyday kind of blog. It started as an expermiment in host-less websites. Exospheric is hosted on the (InterPlanetary FileSystem)[https://ipfs.io/] (IPFS) --it's everywhere and it's nowhere.
 
 IPFS is a distributed, version-controlled, virtual filesystem that can replace HTTP and eliminate the dead link or deleted site problem. Also the seized Domain Name problem. IPFS is an important project and people need to know how to use it. 
 
