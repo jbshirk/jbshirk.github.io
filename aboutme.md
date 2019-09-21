@@ -19,8 +19,10 @@ I am also developing a permanent magnet motor, initially intended for bicycles a
 There are in fact a few working, patented permanent motors ; my design is about 1000 pounds lighter.
 
 
-### my history
+### Career history
 
-My carreer started as a Russian linguist in military intelligence, primarily in the domains of science and aerospace engineering.
+My career started as a Russian linguist in military intelligence, primarily in the domains of science and aerospace engineering.
 
-For a good 15 years I worked in SQL databases: query writing, ETL, and data engineering.
+For a good 15 years I worked with SQL databases (primarily SQL Server): query writing, ETL, and data engineering.
+
+For the last 10 years, I've been doing volunteer work as a translator to and from Brazilian Portuguese.
