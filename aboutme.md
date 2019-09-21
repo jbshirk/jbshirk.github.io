@@ -3,14 +3,24 @@ layout: page
 title: About me
 subtitle: 
 ---
+At heart, I'm an inventor-philosopher. I desire to apply my data science skills to helping solve societal ills, particularly energy and resource sustainability, achievement of human potential, propaganda and disinformation, science capture, state capture, AI abuse, and data tyranny. These touch on a number of areas, such as social psychology, [economic psychology](https://paper.dropbox.com/doc/The-Psycho-Linguistics-of-Sustainable-Economy-Q2y2fW9rE9WZbeZBNC2Rl), and geospacial resource discovery, inventory, and monitoring.
 
-I have a hobby blog called [Exospheric](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/). It's not your everyday kind of blog. It started as an expermiment in host-less web. Exospheric is hosted on the InterPlanetary FileSystem (IPFS) --it's everywhere and it's nowhere.
+### Hobbies
+#### Exospheric unbreakable blog
+I have a blog called [Exospheric](https://js.ipfs.io/ipns/QmZJBQBXX98AuTcoR1HBGdbe5Gph74ZBWSgNemBcqPNv1W/). It's not your everyday kind of blog. It started as an expermiment in host-less websites. Exospheric is hosted on the InterPlanetary FileSystem (IPFS) --it's everywhere and it's nowhere.
 
 IPFS is a distributed, version-controlled, virtual filesystem that can replace HTTP and eliminate the dead link or deleted site problem. Also the seized Domain Name problem. IPFS is an important project and people need to know how to use it. 
 
 I made the site with at-risk journalists in mind, to demonstrate that anyone can be an anonymous blogger. Anyone can make an unbreakable site that can’t fail or be taken down. 
 
+#### Polymagnetic motor bike
+I am also developing a permanent magnet motor, initially intended for bicycles and wheelchairs. If it proves successful, as my proof-of-concept tests suggest, it will require far few batteries, weigh less, and greater range than electromagnetic motor products -just enough to power the small electromechanical actuators and microcontroller. 
+
+There are in fact a few working, patented permanent motors ; my design is about 1000 pounds lighter.
+
 
 ### my history
 
-My carreer started as a Russian linguist in military intelligence. I'd tell you the rest, but you know what happens to people who know too much.
+My carreer started as a Russian linguist in military intelligence, primarily in the domains of science and aerospace engineering.
+
+For a good 15 years I worked in SQL databases: query writing, ETL, and data engineering.
