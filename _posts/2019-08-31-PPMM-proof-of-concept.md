@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Successful Polymagnet Proof of Concept Test
+title: Successful Polymagnet Motor Proof of Concept Test
 subtitle: Demonstrates: 1) release of magnetic force, 2) advance to next station 3) didn't self-destruct this time
 bigimg: /img/20190815_181346.jpg
 tags: [inventions, hobbies, tests, PPMM]
