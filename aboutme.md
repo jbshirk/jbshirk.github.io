@@ -22,7 +22,7 @@ IPFS is a distributed, version-controlled, virtual filesystem that can replace H
 I made the site with at-risk journalists in mind, to demonstrate that anyone can be an anonymous blogger. Anyone can make an unbreakable site that can’t fail or be taken down. 
 
 #### Polymagnetic motor 
-I am also developing a permanent magnet motor, initially intended for bicycles and wheelchairs. If it proves successful, as my proof-of-concept tests suggest, it will require far fewer batteries, weigh less, and have greater range than electromagnetic motor products -just enough to power the small electromechanical actuators and microcontroller. 
+I am also developing a permanent magnet motor, initially intended for bicycles and wheelchairs. If it proves successful, as my proof-of-concept tests suggest, it will require far fewer batteries, weigh less, and have greater range than electromagnetic motor products. The system needs just enough to power the small electromechanical actuators and microcontroller. 
 
 Many academics believe permanent magnet motors are impossible. It's not impossible, just difficult. There are in fact a few working, patented permanent motors, such as this [reciprocating Permanent magnet drive apparatus](https://patents.google.com/patent/US8487484B1/en); my design is about [1000 pounds lighter and probably 100 times more efficient, since it eliminates reciprocation](https://www.youtube.com/watch?v=ZoxyqxHYKBs). 
 
