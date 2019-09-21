@@ -24,5 +24,7 @@ I made the site with at-risk journalists in mind, to demonstrate that anyone can
 #### Polymagnetic motor 
 I am also developing a permanent magnet motor, initially intended for bicycles and wheelchairs. If it proves successful, as my proof-of-concept tests suggest, it will require far fewer batteries, weigh less, and have greater range than electromagnetic motor products -just enough to power the small electromechanical actuators and microcontroller. 
 
-Many academics believe permanent magnet motors are impossible. It's not impossible, just difficult. There are in fact a few working, patented permanent motors, such as this [reciprocating Permanent magnet drive apparatus](https://patents.google.com/patent/US8487484B1/en); my design is about [1000 pounds lighter and probably 100 times more efficient, since it eliminates reciprocation](https://www.youtube.com/watch?v=ZoxyqxHYKBs). One of the difficulty with developing such things is good data collection and analysis. I hope to put my data science skills to work here.
+Many academics believe permanent magnet motors are impossible. It's not impossible, just difficult. There are in fact a few working, patented permanent motors, such as this [reciprocating Permanent magnet drive apparatus](https://patents.google.com/patent/US8487484B1/en); my design is about [1000 pounds lighter and probably 100 times more efficient, since it eliminates reciprocation](https://www.youtube.com/watch?v=ZoxyqxHYKBs). 
+
+One of the difficulties with developing such things is good data collection and analysis. I hope to put my data science skills to work here.
 
