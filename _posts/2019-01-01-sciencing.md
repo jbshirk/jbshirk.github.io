@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 title: Sciencing
 image: /img/define.jpg
 tags: [sciencing, Bad Science, definitions]
