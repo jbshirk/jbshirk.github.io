@@ -2,6 +2,7 @@
 layout: post
 title: Successful Polymagnet Motor Proof of Concept Test
 bigimg: /img/20190815_181346.jpg
+image: /img/20190815_181346.jpg
 tags: [hobbies, PPMM, projects]
 ---
 
