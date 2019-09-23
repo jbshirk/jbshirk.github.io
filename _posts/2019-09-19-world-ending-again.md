@@ -1,7 +1,7 @@
 ---
 layout: post
 title: World's been about to end for decades
-bigimage: /img/screenhunter_394-may-21-04-37.jpg
+bigimg: /img/screenhunter_394-may-21-04-37.jpg
 tags: [sciencing, IPCC, climate]
 ---
 
