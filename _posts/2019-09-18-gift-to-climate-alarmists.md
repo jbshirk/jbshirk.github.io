@@ -2,7 +2,6 @@
 layout: post
 title: My Gift to Climate Alarmists
 image: /img/Screenshot_20190923_122751_crop.png
-bigimg: /img/Limited-scope.png
 tags: [sciencing, IPCC, climate, Tony Heller, Bad Data Science]
 ---
 Tony Heller's most concise expose of climate fraud. The video is short, but cuts right to the heart of the matter.
