@@ -1,8 +1,8 @@
 ---
 layout: post
 title: GIGO: A Climate Modeller Spills the Beans
-image: /img/cropped-quad-big-III-180x180.png
 bigimg: /img/garbage-II.png
+image: /img/cropped-quad-big-III-180x180.png
 tags: [sciencing, IPCC, climate, Tony Thomas, Mototaka Nakamura,Quadrant.org, Bad Data Science]
 ---
 
