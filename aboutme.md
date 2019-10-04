@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: 
 ---
-At heart, I'm an inventor-philosopher. I desire to apply my data science skills to helping solve societal ills, particularly energy and resource sustainability, achievement of human potential, propaganda and disinformation, [science capture](https://jbshirk.github.io/tags/#sciencing), state capture, AI abuse, and data tyranny. These touch on a number of areas, such as social psychology, [economic psychology](https://paper.dropbox.com/doc/The-Psycho-Linguistics-of-Sustainable-Economy-Q2y2fW9rE9WZbeZBNC2Rl), and geospacial resource discovery, inventory, and monitoring.
+At heart, I'm an inventor-philosopher. I desire to apply my data science skills to helping solve societal ills, particularly energy and resource sustainability. I'm also interested in: fostering achievement of human potential, neutralizing propaganda and disinformation, and educating the public on [science capture](https://jbshirk.github.io/tags/#sciencing), state capture, AI abuse, and data tyranny. These touch on a number of areas, such as social psychology, [economic psychology](https://paper.dropbox.com/doc/The-Psycho-Linguistics-of-Sustainable-Economy-Q2y2fW9rE9WZbeZBNC2Rl), and geospacial resource discovery, inventory, and monitoring.
 
 ### Career history
 
