@@ -3,7 +3,7 @@ layout: post
 title: GIGO: A Climate Modeller Spills the Beans
 bigimg: /img/garbage-II.png
 image: /img/cropped-quad-big-III-180x180.png
-tags: [sciencing, IPCC, climate, Tony Thomas, Mototaka Nakamura,Quadrant.org, Bad Data Science]
+tags: [sciencing, IPCC, climate, Tony Thomas, Mototaka Nakamura, Quadrant, Bad Data Science]
 ---
 
 There’s a top-level oceanographer and meteorologist who is  prepared to cry “Nonsense!” on the “global warming crisis” evident to climate modellers but not in the real world. He’s as well or better qualified than the modellers he criticises — the ones whose Year 2100 forebodings of 4degC warming have set the world to spending $US1.5 trillion a year to combat CO2 emissions.
